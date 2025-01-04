@@ -4,7 +4,7 @@
 The Repository Analyzer is a web application designed to analyze open-source projects on GitHub. It uses the Ollama LLM model ("qwen2.5-coder:14b") to provide a detailed description and analysis of each file within a repository. 
 This tool aims to help developers understand codebases quickly, making it easier to contribute to open-source projects or get insights into how various components of a project work together.
 
-<img width="1895" alt="Screenshot 2025-01-04 at 4 00 15 PM" src="https://github.com/user-attachments/assets/fd8740ef-d92d-48ad-8464-8596097a3cf6" />
+<img width="1907" alt="Screenshot 2025-01-04 at 4 02 36 PM" src="https://github.com/user-attachments/assets/444f0f90-c35b-459c-aa69-b815f8edb41f" />
 
 
 ## Features
